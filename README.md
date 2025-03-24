@@ -8,15 +8,15 @@ he/him
   <b>about me:</b><br/>
   programming language enthusiast (love creating them)</br>
   semi-professional user experience design intern</br>
-  programmer, designer @ Skyward Interactive</br>
-  life goal: be a good game designer</br>
 
-  i'm working on big project called Fluxar</br>
-  go check it out, i guess??</br>
+  operating systems that I use everyday:
+  - Mac OS Sequoia 15.4
+  - Windows 11 24H2
+  - Manjaro Linux 6.12
 </p>
 
 <br/>
 <p align="center">
   <b>how to reach me?</b><br/>
-  you can't, follow me on roblox: @uid3v
+  you can't
 </p>
