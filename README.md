@@ -10,7 +10,7 @@ he/him
   semi-professional user experience design intern</br>
 
   operating systems that I use everyday:
-  - Mac OS Sequoia 15.4
+  - Mac OS Tahoe 26
   - Windows 11 24H2
   - Manjaro Linux 6.12
 </p>
