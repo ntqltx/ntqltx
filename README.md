@@ -1,2 +1,1 @@
-lua & rust engineer<br/>
-learning c++
+luau & rust engineer
