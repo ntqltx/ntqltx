@@ -1,2 +1,1 @@
-lua(u) & rust engineer
-<br>learning go
+lua(u), rust & go engineer
