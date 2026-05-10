@@ -1,2 +1,2 @@
 lua(u), rust & go engineer
-</br>learning odin
+</br>learning odin and c++
